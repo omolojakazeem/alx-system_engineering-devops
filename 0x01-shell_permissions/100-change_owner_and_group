@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type [d/f] -exec chgrp staff chmod vincent {} /
+find . -type [d/f] -exec chgrp staff chown vincent {} /
