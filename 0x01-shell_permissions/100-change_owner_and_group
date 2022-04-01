@@ -1,2 +1,2 @@
 #!/bin/bash
-find . * -exec chgrp staff chown vincent {} /
+find . * -exec chown vincent {} /
